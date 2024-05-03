@@ -12,8 +12,8 @@
   <section id="contact" class="contact">
     <div class="container">
       <div class="title">
-        <h4>연락</h4>
-        <h2>연락주세요</h2>
+        <h4>CONTACT</h4>
+        <h2>Contact With Me</h2>
       </div>
       <div class="contact-me">
         <div class="left">
@@ -22,8 +22,8 @@
               <i class="fa-solid fa-phone-volume"></i>
             </div>
             <div class="info-text">
-              <h3>모바일</h3>
-              <p>010-1234-5678</p>
+              <h3>phone</h3>
+              <p>010-2222-1111</p>
             </div>
           </div>
           <div class="card">
@@ -31,8 +31,8 @@
               <i class="fa-solid fa-envelope-open-text"></i>
             </div>
             <div class="info-text">
-              <h3>이메일</h3>
-              <p>ryutyperun@gmail.com</p>
+              <h3>email</h3>
+              <p>sucoding@naver.com</p>
             </div>
           </div>
           <div class="card">
@@ -40,26 +40,26 @@
               <i class="fa-solid fa-location-crosshairs"></i>
             </div>
             <div class="info-text">
-              <h3>주소</h3>
-              <p>대한민국 경기도 성남시 분당구 서현동</p>
+              <h3>address</h3>
+              <p>Samseong-ro, Gangnam-gu, Seoul, Republic of Korea</p>
             </div>
           </div>
         </div>
         <div class="right">
           <form action="#">
             <div class="form-group">
-              <label for="name">이름</label>
+              <label for="name">name</label>
               <input type="text" id="name">
             </div>
             <div class="form-group">
-              <label for="email">이메일</label>
+              <label for="email">email</label>
               <input type="text" id="email">
             </div>
             <div class="form-group">
-              <label for="msg">내용</label>
+              <label for="msg">message</label>
               <textarea id="msg"></textarea>
             </div>
-            <button>보내기</button>
+            <button>send</button>
           </form>
         </div>
       </div>

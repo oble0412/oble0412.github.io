@@ -5,36 +5,28 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>헤더 영역</title>
-  <link rel="stylesheet" href="init.css">
+  <link rel="stylesheet" href="../css/header.css">
 </head>
 <body>
   <!-- header -->
   <header>
     <div class="container">
       <h1>
-        <button>Ryu</button>
+        <button>SU</button>
       </h1>
       <nav>
         <ul>
           <li>
-            <button data-animation-scroll="true" data-target="#about">
-              소개
-            </button>
+            <button>About</button>
           </li>
           <li>
-            <button data-animation-scroll="true" data-target="#features">
-              강점
-            </button>
+            <button>Features</button>
           </li>
           <li>
-            <button data-animation-scroll="true" data-target="#portfolio">
-              포트폴리오
-            </button>
+            <button>Portfolio</button>
           </li>
           <li>
-            <button data-animation-scroll="true" data-target="#contact">
-              연락
-            </button>
+            <button>Contact</button>
           </li>
         </ul>
       </nav>

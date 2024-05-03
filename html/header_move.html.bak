@@ -12,28 +12,28 @@
   <header>
     <div class="container">
       <h1>
-        <button>Ryu</button>
+        <button>SU</button>
       </h1>
       <nav>
         <ul>
           <li>
             <button data-animation-scroll="true" data-target="#about">
-              소개
+              About
             </button>
           </li>
           <li>
             <button data-animation-scroll="true" data-target="#features">
-              강점
+              Features
             </button>
           </li>
           <li>
             <button data-animation-scroll="true" data-target="#portfolio">
-              포트폴리오
+              Portfolio
             </button>
           </li>
           <li>
             <button data-animation-scroll="true" data-target="#contact">
-              연락
+              Contact
             </button>
           </li>
         </ul>
