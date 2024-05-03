@@ -46,8 +46,8 @@
   <main id="main">
     <div class="container">
       <h4>Welcome</h4>
-      <h2 class="active">나는 <span></span></h2>
-      <p>고객이 성공하는 것은 매우 중요합니다. 그런 서비스가 어디에도 없는 현재의 아픔은?</p>
+      <h2 class="active">I`M A <span></span></h2>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolor quas nulla unde ea officiis?</p>
       <button class="download">DOWNLOAD CV</button>
       <button class="mouse"><i class="fa-solid fa-computer-mouse"></i></button>
     </div>
@@ -57,19 +57,19 @@
   <section id="about" class="about">
     <div class="container">
       <div class="title">
-        <h4>나는 누구인가?</h4>
-        <h2>나에 대하여</h2>
+        <h4>Who Am I</h4>
+        <h2>About Me</h2>
       </div>
       <div class="about-self">
         <div class="left">
           <img src="images/me_alone.jpg" alt="">
         </div>
         <div class="right">
-          <h3>안녕, <strong>나는 류타입러너야</strong></h3>
-          <p>저는 웹 퍼블리셔이자 웹 프런트엔드 개발자입니다.</p>
-          <p>고객이 성공하는 것은 매우 중요합니다. 나는 종종 고발자들에게 진실을 밝힐 것입니다.</p>
-          <p>고객이 성공하는 것은 매우 중요합니다. 책임을 맡은 이들의 현재이자 고통이 되기를 바랍니다.</p>
-          <p>안녕하세요, 따라가기가 정말 고통스럽습니다. 그러나 일부에게는 모두.</p>
+          <h3>Hello, <strong>I`m Sucoding</strong></h3>
+          <p>I`m Web Publisher And Web Front-End Developer.</p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe veritatis aperiam accusantium.</p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit praesentium doloremque quos quis est officiis.</p>
+          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem, omnis quibusdam.</p>
           <div class="social">
             <a href="#">
               <i class="fa-brands fa-facebook"></i>
@@ -93,8 +93,8 @@
   <section id="features" class="do">
     <div class="container">
       <div class="title">
-        <h4>강점</h4>
-        <h2>내가 하는 일</h2>
+        <h4>Features</h4>
+        <h2>What I Do</h2>
       </div>
       <div class="do-me">                
         <div class="do-inner">
@@ -103,7 +103,7 @@
           </div>
           <div class="content">
             <h3>HTML5</h3>
-            <p>고객이 성공하는 것은 매우 중요합니다. 일부 사람들이 그것을 받는 것은 매우 힘든 잘못이지만, 당신은 반드시 받아야 합니까?</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo culpa magni laboriosam sit excepturi quibusdam adipisci, vero debitis?</p>
           </div>
         </div>        
         <div class="do-inner">
@@ -112,7 +112,7 @@
           </div>
           <div class="content">
             <h3>CSS3</h3>
-            <p>고객이 성공하는 것은 매우 중요합니다. 일부 사람들이 그것을 받는 것은 매우 힘든 잘못이지만, 당신은 반드시 받아야 합니까?</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo culpa magni laboriosam sit excepturi quibusdam adipisci, vero debitis?</p>
           </div>
         </div>
         <div class="do-inner">
@@ -121,7 +121,7 @@
           </div>
           <div class="content">
             <h3>BootStrap v5.0</h3>
-            <p>고객이 성공하는 것은 매우 중요합니다. 일부 사람들이 그것을 받는 것은 매우 힘든 잘못이지만, 당신은 반드시 받아야 합니까?</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo culpa magni laboriosam sit excepturi quibusdam adipisci, vero debitis?</p>
           </div>
         </div>
       </div>
@@ -136,38 +136,38 @@
     <div class="container">
       <div class="title">
         <h4>PORTFOLIOBACK</h4>
-        <h2>포트폴리오</h2>
+        <h2>PortFolio</h2>
       </div>
       <div class="portfolio-me">
         <div class="portfolio-inner">
           <img src="images/mock1.png" alt="">
-          <strong>브랜딩</strong>
-          <h3>패키지 디자인</h3>
+          <strong>BRANDING</strong>
+          <h3>Package Design</h3>
         </div>
         <div class="portfolio-inner">
           <img src="images/mock2.png" alt="">
-          <strong>개발</strong>
-          <h3>태블릿 앱 개발</h3>
+          <strong>DEVELOPMENT</strong>
+          <h3>Tablet App Dev</h3>
         </div>
         <div class="portfolio-inner">
           <img src="images/mock3.png" alt="">
-          <strong>마켓팅</strong>
+          <strong>MARKETING</strong>
           <h3>Coka Cola </h3>
         </div>
         <div class="portfolio-inner">
           <img src="images/mock4.png" alt="">
-          <strong>앱</strong>
-          <h3>페이스북 클론</h3>
+          <strong>APP</strong>
+          <h3>FaceBook Clone</h3>
         </div>
         <div class="portfolio-inner">
           <img src="images/mock5.png" alt="">
-          <strong>앱</strong>
-          <h3>넷플릭스 클론</h3>
+          <strong>APP</strong>
+          <h3>Netflix Clone</h3>
         </div>
         <div class="portfolio-inner">
           <img src="images/mock6.png" alt="">
-          <strong>웹</strong>
-          <h3>FirmBee 웹</h3>
+          <strong>WEB</strong>
+          <h3>FirmBee Web</h3>
         </div>
       </div>
     </div>
@@ -177,8 +177,8 @@
    <section id="contact" class="contact">
     <div class="container">
       <div class="title">
-        <h4>연락</h4>
-        <h2>연락주세요</h2>
+        <h4>CONTACT</h4>
+        <h2>Contact With Me</h2>
       </div>
       <div class="contact-me">
         <div class="left">
@@ -187,8 +187,8 @@
               <i class="fa-solid fa-phone-volume"></i>
             </div>
             <div class="info-text">
-              <h3>모바일</h3>
-              <p>010-1234-5678</p>
+              <h3>phone</h3>
+              <p>010-2222-1111</p>
             </div>
           </div>
           <div class="card">
@@ -196,8 +196,8 @@
               <i class="fa-solid fa-envelope-open-text"></i>
             </div>
             <div class="info-text">
-              <h3>이메일</h3>
-              <p>ryutyperun@gmail.com</p>
+              <h3>email</h3>
+              <p>sucoding@naver.com</p>
             </div>
           </div>
           <div class="card">
@@ -206,25 +206,25 @@
             </div>
             <div class="info-text">
               <h3>address</h3>
-              <p>대한민국 경기도 성남시 분당구 서현동</p>
+              <p>Samseong-ro, Gangnam-gu, Seoul, Republic of Korea</p>
             </div>
           </div>
         </div>
         <div class="right">
           <form action="#">
             <div class="form-group">
-              <label for="name">이름</label>
+              <label for="name">name</label>
               <input type="text" id="name">
             </div>
             <div class="form-group">
-              <label for="email">이메일</label>
+              <label for="email">email</label>
               <input type="text" id="email">
             </div>
             <div class="form-group">
-              <label for="msg">문자</label>
+              <label for="msg">message</label>
               <textarea id="msg"></textarea>
             </div>
-            <button>보내기</button>
+            <button>send</button>
           </form>
         </div>
       </div>
