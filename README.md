@@ -1,1 +1,0 @@
-# oble0412.github.io
