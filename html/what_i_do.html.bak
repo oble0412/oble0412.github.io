@@ -14,8 +14,8 @@
   <section id="features" class="do">
     <div class="container">
       <div class="title">
-        <h4>Features</h4>
-        <h2>What I Do</h2>
+        <h4>강점</h4>
+        <h2>내가 하는 일</h2>
       </div>
       <div class="do-me">                
         <div class="do-inner">
@@ -24,7 +24,7 @@
           </div>
           <div class="content">
             <h3>HTML5</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo culpa magni laboriosam sit excepturi quibusdam adipisci, vero debitis?</p>
+            <p>고객이 성공하는 것은 매우 중요합니다. 일부 사람들이 그것을 받는 것은 매우 힘든 잘못이지만, 당신은 반드시 받아야 합니까?</p>
           </div>
         </div>        
         <div class="do-inner">
@@ -33,7 +33,7 @@
           </div>
           <div class="content">
             <h3>CSS3</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo culpa magni laboriosam sit excepturi quibusdam adipisci, vero debitis?</p>
+            <p>고객이 성공하는 것은 매우 중요합니다. 일부 사람들이 그것을 받는 것은 매우 힘든 잘못이지만, 당신은 반드시 받아야 합니까?</p>
           </div>
         </div>
         <div class="do-inner">
@@ -42,7 +42,7 @@
           </div>
           <div class="content">
             <h3>BootStrap v5.0</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo culpa magni laboriosam sit excepturi quibusdam adipisci, vero debitis?</p>
+            <p>고객이 성공하는 것은 매우 중요합니다. 일부 사람들이 그것을 받는 것은 매우 힘든 잘못이지만, 당신은 반드시 받아야 합니까?</p>
           </div>
         </div>
       </div>
